@@ -1,5 +1,5 @@
 # Sequence-to-Sequence-Learning
-End-to-End Learning
+
 In this project we will be teaching a neural network to End-to-End Learning with English.
 
 [KEY: > input, = target, < output]
