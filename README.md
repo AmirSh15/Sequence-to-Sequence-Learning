@@ -3,7 +3,7 @@
 In this project we will be teaching a neural network to End-to-End Learning with English.
 
 
-https://github.com/AmirSh15/Sequence-to-Sequence-Learning/raw/master/encode_decode.png
+https://cloud.githubusercontent.com/assets/27130785/26065105/2318bc24-39a8-11e7-84c3-4a9c0c484cbe.png
 
 
 [KEY: > input, = target, < output]
