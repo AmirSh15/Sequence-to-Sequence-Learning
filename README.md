@@ -2,6 +2,10 @@
 
 In this project we will be teaching a neural network to End-to-End Learning with English.
 
+
+https://github.com/AmirSh15/Sequence-to-Sequence-Learning/raw/master/encode_decode.png
+
+
 [KEY: > input, = target, < output]
 > who wants this ?
 = who wants this ?
